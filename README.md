@@ -2,4 +2,8 @@
 
 add
 
+<<<<<<< Updated upstream
 HeHe..
+=======
+conflict
+>>>>>>> Stashed changes
